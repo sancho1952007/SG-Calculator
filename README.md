@@ -26,5 +26,27 @@ Python / Tkinter
 And Many More Features...
 </pre>
 
+<br>
+
 ## *Preview?*
 [<img src="https://i.ibb.co/jGqsM5z/Preview.png">](https://github.com/sancho1952007/SG-Calculator)
+
+<br>
+
+## *Where To Download?*
+<pre>Just Click <a href="https://sancho1952007.github.io/SG-Calculator/Release/SG-Calculator.zip">Here</a> To Download For Windows!</pre>
+
+<br>
+
+## *How To Install?*
+<pre>
+1) If Security Prompt on Download Choose Keep. It's Safe!
+2) Extract The Zip File to the Desired Location.
+3) Run the SG-Calculator.exe!
+
+Done! Now You Can Use My Best Calculator!
+</pre>
+
+<br><br>
+
+# *Thank You For Visiting!*
