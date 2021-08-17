@@ -133,7 +133,7 @@ def update():
   try:
     web=BeautifulSoup(requests.get('https://sancho1952007.github.io/SG-Calculator/Update.html').text, 'html.parser')
     updat=web.find('div', class_='update-latest-version').text
-    with open('files\\version', 'r') as ver:
+    with open(path+'files\\version', 'r') as ver:
         if updat==ver.read():
             showinfo('No Update' ,'You Are Using The Latest Version!')
         else:
