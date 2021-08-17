@@ -42,7 +42,7 @@ And Many More Features...
 <pre>
 1) If Security Prompt on Download Choose Keep. It's Safe!
 2) Extract The Zip File to the Desired Location.
-3) Run the SG-Calculator.exe!
+3) Run the SG-CALCULATOR.exe!
 
 Done! Now You Can Use My Best Calculator!
 </pre>
