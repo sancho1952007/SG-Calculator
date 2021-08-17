@@ -1,3 +1,5 @@
+-- Kindly Distribute This File with your Tkinter App --
+
 This GUI is Built By Sancho Godinho ( https://github.com/sancho1952007 ).
 This is version 3.0 (Stable).
 
