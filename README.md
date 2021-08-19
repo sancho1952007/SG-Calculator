@@ -34,7 +34,12 @@ And Many More Features...
 <br>
 
 ## *Where To Download?*
-<pre>Just Click <a href="https://sancho1952007.github.io/SG-Calculator/Release/SG-Calculator.zip">Here</a> To Download For Windows!</pre>
+<pre>Just Click <a href="https://sancho1952007.github.io/SG-Calculator/Release/SG-Calculator.zip">Here</a> To Download The Latest Version For Windows!</pre>
+
+<br>
+
+# *What's The Current Version?*
+<pre>Current Version: v1.0</pre>
 
 <br>
 
