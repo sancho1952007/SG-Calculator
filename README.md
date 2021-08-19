@@ -1,4 +1,4 @@
-![](https://i.ibb.co/zxvF7qg/Logo.png)
+[![](https://i.ibb.co/zxvF7qg/Logo.png)](https://github.com/sancho1952007/SG-Calculator)
 <br>
 
 ## *What is SG-Calculator?*
